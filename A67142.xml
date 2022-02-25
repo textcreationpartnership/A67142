@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three speeches, made by Sir Iohn VVray to the House of Commons, assembled in Parliament : 1 against Thomas Earle of Strafford, and the Bishop of Canterbury : 2 being a motion for the taking of an oath to maintaine the religion and vowes established : 3 against the oath and Commons made by the Assembly at the last Convocation.</title>
+            <author>Wray, John, Sir, 1586-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67142</idno>
+            <idno type="STC">Wing W3670</idno>
+            <idno type="STC">ESTC R21082</idno>
+            <idno type="EEBO-CITATION">12737766</idno>
+            <idno type="OCLC">ocm 12737766</idno>
+            <idno type="VID">93028</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93028)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 995:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three speeches, made by Sir Iohn VVray to the House of Commons, assembled in Parliament : 1 against Thomas Earle of Strafford, and the Bishop of Canterbury : 2 being a motion for the taking of an oath to maintaine the religion and vowes established : 3 against the oath and Commons made by the Assembly at the last Convocation.</title>
+                  <author>Wray, John, Sir, 1586-1655.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93028:1"/>
+            <p>THREE SPEECHES, MADE BY Sir. Iohn VVray, To the Houſe of Com<g ref="char:EOLhyphen"/>mons, asſembled in Parliament.</p>
+            <list>
+               <item>1 Againſt <hi>Thomas</hi> Earle of <hi>Strafford,</hi> and the Biſhop of Canterbury.</item>
+               <item>2 Being a motion for the taking of an oath to maintaine the Re<g ref="char:EOLhyphen"/>ligion and vowes eſtabliſhed.</item>
+               <item>3 Againſt the Oath and Ca<g ref="char:EOLhyphen"/>nons made by the Asſembly at the laſt Convocation.</item>
+            </list>
+            <p>London Printed, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:93028:2"/>
+            <pb n="3" facs="tcp:93028:2"/>
+            <head>SIR IOHN VVRAYES SPEECH<g ref="char:punc">▪</g> Aprill 6. 1641.</head>
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Ruth is the Daughter of Time, and experience the beſt School-Maſter, who hath long ſince taught many men and States, the ſad and wofull effects of an halfe done work. Maſter Spea<g ref="char:EOLhyphen"/>ker, thoſe Convulſions and renting paines, which the body of Great Brittain now ſhews that the ill humours and obſtructions are not yet fully purged nor diſſolved.</p>
+            <p>Maſter Speaker, God will have a through worke done, if in ſtead of redreſ<g ref="char:EOLhyphen"/>ſing evills, wee thinke to tranſ-ſeat all by removings of Perſons and not things, well may wee huſh our troubles for a ſea<g ref="char:EOLhyphen"/>ſon, but they will returne with a greater
+<pb n="4" facs="tcp:93028:3"/> violence, for beleeve it Maſter Speaker, Let <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> flatter our ſelves as wee pleaſe, any ſighted eyes may ſee that although we thinke we have now paſſed the Equinoxiall and Straffordian Line, and ſeeme to have gone beyond Canter<g ref="char:EOLhyphen"/>bury; yet their faction, and their undermining. Agents (of all Religions) grow daily more and more powerfull, and no doubt doe labour an extirpation of all Parliaments; and men which will not thinke, ſay and ſweare to their opini<g ref="char:EOLhyphen"/>ons and practices. Have we not then Maſter Speaker, a Wolfe by the eares, or rather a Fox by the taile? Is there any way to goe ſcot-free or wolfe-free but one? then let us take, and not forſake that old Engliſh Parliamentary road, which is <hi>via tuta,</hi> and will bring us ſafely to our Iourneyes end, that's my humble Motion.</p>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:93028:3"/>
+            <head>SIR IOHN VVRAYES Speech, May the third, 1641.</head>
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F ever we intend to perfect and finiſh thoſe great workes wee have begunne, wee muſt fol<g ref="char:EOLhyphen"/>low that <hi>via tuta</hi> which I for<g ref="char:EOLhyphen"/>merly told you of, and in a word is this, to become holy pilgrims in that path (not popiſh) and to en<g ref="char:EOLhyphen"/>devour to be loyall Covenanters with God and the King, firſt binding ourſelves by a Parlia<g ref="char:EOLhyphen"/>mentarie and naturall Oath, (not a Straffordian, nor a Prelaticall one) to preſerve our Religion entire and pure, without the leaſt compound of Superſtition or Idolatrie: next to defend the Defendor of the Faith, his Royall Perſon, Crown and Dignitie: and maintaine our ſuffe<g ref="char:EOLhyphen"/>rance in his glory &amp; ſplendor, (which can never be eclypſed if the ballance of Iuſtice goe right:
+<pb n="6" facs="tcp:93028:4"/> and his Lawes bee duly executed. Thus do<g ref="char:EOLhyphen"/>ing Maſter Speaker, and making Jeruſalem our chiefeſt ioy, wee ſhall bee a bleſſed Na<g ref="char:EOLhyphen"/>tion, and a happy People: but if wee ſhall let goe our Chriſtian hold, and loſe our Parlia<g ref="char:EOLhyphen"/>ment proofe, and old Engliſh well tempered mettell, let us take heed then, Maſter Speaker, that our Buckler breake not, and our golden Candleſtick be nor removed, which God for<g ref="char:EOLhyphen"/>bid, and let me never live to ſee, nor Eng<g ref="char:EOLhyphen"/>gland to feel the want of, thats my Pray<g ref="char:EOLhyphen"/>er to conclude my former Motion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="speech">
+            <pb n="7" facs="tcp:93028:4"/>
+            <head>
+               <hi>SIR IOHN WRAYES</hi> SPEECH Touching the Canons, December the fifteenth, 1640.</head>
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>A Man may eaſily ſee to what tends all theſe Innovations, and alteration in Doctrine and Diſcipline, and (with<g ref="char:EOLhyphen"/>out a proſpective glaſſe) diſcover affar off, the active toyleſomneſſe of thoſe ſpirituall Ingi<g ref="char:EOLhyphen"/>neers, to undermine the old and true founda<g ref="char:EOLhyphen"/>tion of Religion, and to eſtabliſh their totte<g ref="char:EOLhyphen"/>ring hereſie in roome thereof; which leſt it ſhould not hold being built with untempered morter, you ſee how carefull they are by a vaſt Oath to force mens conſciences, not to alter their Government Archiepiſcopall, &amp;c. Mr. Speaker, the thoughts of the Righteous are right, but the Counſels of the wicked are de<g ref="char:EOLhyphen"/>ceit, and nothing elſe is in their hearts but de<g ref="char:EOLhyphen"/>ſtruction, and devaſtation, but to the Coun<g ref="char:EOLhyphen"/>ſellors of peace is ioy, ſo long as they keepe themſelves within the circle of ſpirituall Co<g ref="char:EOLhyphen"/>merce, and ſtudied to keepe mens hearts up<g ref="char:EOLhyphen"/>right to God and his Truth: there was no ſuch complaining in our ſtreetes of them, nor have wee overſeene ſo many thouſand hands againſt them as now there are come in, and no mar<g ref="char:EOLhyphen"/>vell though God with drawes ſo many hearts and hands from them, who have turned ſo many from the Way of Truth, <hi>via tuta,</hi> they have ſtop'd up; but <hi>via devia,</hi> they
+<pb n="8" facs="tcp:93028:5"/> have enlarged and laid open, as appeareth by their crooked Canons. Maſter Speaker, I ſhall not goe about to overthrow their government in the plurall, but to limit and qualifie it in ſome perticulars: for as Sir <hi>Francis Bacon</hi> long ſince well obſerved there were two things in the go<g ref="char:EOLhyphen"/>vernment of Biſhops, of which he could never be ſatiſfied; no more am I, The firſt was, the ſole exerciſes of their authoritie, and ſecondly, the deputation of that authoritie; but Mr. Spea<g ref="char:EOLhyphen"/>ker, I ſhall not now diſpute of either, for my part, I wiſh ſome of them ſo well, and am ſo charitable to the reſt, that I wiſh rather their reformation than their ruine: but let mee tell you withall, that if we ſhall find amongſt them any proud <hi>Becket,</hi> or <hi>Woolſie,</hi> Prelates, who ſtick not to write, <hi>Ego &amp; Rex meus,</hi> or if there ſhall be found any cruell <hi>Bonners,</hi> &amp;c. ſuch (I proteſt) I would not ſpare for they will ſpare none. But if in the counter-ballance there may bee found but one good <hi>Cranmer,</hi> or one <hi>Latimer,</hi> or <hi>Rid<g ref="char:EOLhyphen"/>ley,</hi> I would eſteeme and prize them as rich Iewels, fit to bee ſet in the Kings owne Cabbi<g ref="char:EOLhyphen"/>net, for ſuch I am ſure will pray for the peace of Ieruſalem, and for the peace of King <hi>Charles,</hi> and his three Kingdomes; which God long preſerve in concord and unity, but Maſter Speaker, we muſt alſo be Actors in the preſer<g ref="char:EOLhyphen"/>vation of Religious Concordance which will never be ſafe nor well at quiet, until theſe heavy droſſy Canons with al their baſe mettel be mel<g ref="char:EOLhyphen"/>ted &amp; deſolved, let us then diſmount them and diſtroy them, which is my humble motion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
